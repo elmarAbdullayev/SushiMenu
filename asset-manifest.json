@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/elmarAbdullayev/ParadiseSushi/static/css/main.15f29584.css",
+    "main.js": "/elmarAbdullayev/ParadiseSushi/static/js/main.eb92e284.js",
+    "static/js/787.5f13b7c6.chunk.js": "/elmarAbdullayev/ParadiseSushi/static/js/787.5f13b7c6.chunk.js",
+    "static/media/SushiVideo.mp4": "/elmarAbdullayev/ParadiseSushi/static/media/SushiVideo.dd97208112fe16681ec1.mp4",
+    "static/media/sushi (3).png": "/elmarAbdullayev/ParadiseSushi/static/media/sushi (3).fd560ccdab58fef70e34.png",
+    "static/media/Logo.png": "/elmarAbdullayev/ParadiseSushi/static/media/Logo.b01ddacc6fd0df396c05.png",
+    "static/media/japanese-food.png": "/elmarAbdullayev/ParadiseSushi/static/media/japanese-food.2124f9e12fc11e9c5409.png",
+    "static/media/sushi-icon.png": "/elmarAbdullayev/ParadiseSushi/static/media/sushi-icon.17ae7b4d6e881ae80ea0.png",
+    "static/media/nigiri.png": "/elmarAbdullayev/ParadiseSushi/static/media/nigiri.375a00a503838019c485.png",
+    "static/media/sushi-roll2.png": "/elmarAbdullayev/ParadiseSushi/static/media/sushi-roll2.c50544952d4e7cf92d8e.png",
+    "static/media/sushi (2).png": "/elmarAbdullayev/ParadiseSushi/static/media/sushi (2).051b7fad3d0aab21a490.png",
+    "static/media/sushi-roll.png": "/elmarAbdullayev/ParadiseSushi/static/media/sushi-roll.e341b4030186470a521a.png",
+    "static/media/nigiri (1).png": "/elmarAbdullayev/ParadiseSushi/static/media/nigiri (1).eba3c9478d83fab3a724.png",
+    "static/media/sushi (1).png": "/elmarAbdullayev/ParadiseSushi/static/media/sushi (1).6adcdad50939ca3282f6.png",
+    "static/media/cake.png": "/elmarAbdullayev/ParadiseSushi/static/media/cake.e4bc794033a95f90218e.png",
+    "static/media/lunch.png": "/elmarAbdullayev/ParadiseSushi/static/media/lunch.f39970c2ee78725e4684.png",
+    "static/media/sushi.png": "/elmarAbdullayev/ParadiseSushi/static/media/sushi.1369ee6c4f3352c4d0ce.png",
+    "index.html": "/elmarAbdullayev/ParadiseSushi/index.html",
+    "main.15f29584.css.map": "/elmarAbdullayev/ParadiseSushi/static/css/main.15f29584.css.map",
+    "main.eb92e284.js.map": "/elmarAbdullayev/ParadiseSushi/static/js/main.eb92e284.js.map",
+    "787.5f13b7c6.chunk.js.map": "/elmarAbdullayev/ParadiseSushi/static/js/787.5f13b7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f29584.css",
+    "static/js/main.eb92e284.js"
+  ]
+}
